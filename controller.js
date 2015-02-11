@@ -7,6 +7,5 @@ app.controller('MainController', function($scope, mainService) {
 	};
 
 	getData();
-	console.log($scope.users)
 
 });
